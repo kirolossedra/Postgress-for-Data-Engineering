@@ -69,3 +69,10 @@ Select Create > Database....
 Enter COFFEE as the name and save it.
 Step 7: Create Tables in the Database
 Now that you have the COFFEE database created, you can follow the earlier instructions to create your ERD and add tables for sales transactions and products.
+
+
+In case password needs to be changed this command can be employed
+
+sudo -u postgres psql
+
+\password postgres
