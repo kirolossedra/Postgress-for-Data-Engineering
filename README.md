@@ -27,3 +27,7 @@ alias pgadmin4='/usr/pgadmin4/bin/pgadmin4'
 
 
 
+![image](https://github.com/user-attachments/assets/8afbb004-1955-464b-8650-4efa3561ab59)
+
+
+
