@@ -76,3 +76,7 @@ In case password needs to be changed this command can be employed
 sudo -u postgres psql
 
 \password postgres
+
+
+![image](https://github.com/user-attachments/assets/c344df38-a682-4a13-9c1b-f3b1aec784ee)
+
