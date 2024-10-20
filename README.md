@@ -80,3 +80,7 @@ sudo -u postgres psql
 
 ![image](https://github.com/user-attachments/assets/c344df38-a682-4a13-9c1b-f3b1aec784ee)
 
+
+
+I was trying to import a csv, but it turns out the csv is created in a shitty format that has an extra row that is not interpretted by postgres so I used the query instead in the fix.sql
+
